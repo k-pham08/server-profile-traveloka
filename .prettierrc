@@ -1,0 +1,19 @@
+{
+  "prettier/prettier": [
+    "error",
+    {
+      "endOfLine": "auto"
+    },
+    {
+      "fileInfoOptions": {
+        "withNodeModules": true
+      }
+    }
+  ],
+  "semi": true,
+  "trailingComma": "all",
+  "singleQuote": false,
+  "printWidth": 180,
+  "tabWidth": 5,
+  "arrowParens": "avoid"
+}
